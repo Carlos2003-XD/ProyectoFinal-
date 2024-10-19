@@ -1,1 +1,1 @@
-INDEX_NAME = "firecrawl"
+INDEX_NAME = "langchain-doc-index"

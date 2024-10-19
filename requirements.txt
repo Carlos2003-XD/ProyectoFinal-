@@ -19,4 +19,3 @@ beautifulsoup4
 altair<5
 streamlit
 streamlit-chat
-firecrawl-py

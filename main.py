@@ -2,7 +2,7 @@ from backen.core import run_llm
 import streamlit as st
 from streamlit_chat import message
 
-st.header("Ghost Rider - El Vengador Fantasma")
+st.header("LangChain - Documentation Helper Bot")
 
 prompt = st.text_input("Prompt", placeholder="Enter your prompt here")
 
